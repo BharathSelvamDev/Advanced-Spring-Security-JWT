@@ -1,4 +1,4 @@
-package io.tech.AdvancedSpringBootSecurityWithJwt.secirity;
+package io.tech.AdvancedSpringBootSecurityWithJwt.security;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;
